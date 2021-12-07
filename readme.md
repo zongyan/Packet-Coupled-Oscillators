@@ -7,10 +7,10 @@ Y. Zong, X. Dai, P. Canyelles-Pericas, Z. Gao, W. Ng, K. Busawon, and R. Binns.,
 The following is the directory structure:
 
 ```
-ZongYan/PkCOsSAM
-├── README.md		<-- You are here 📌
+ZongYan/Packet-Coupled-Oscillators
+├── readme.md		<-- You are here 📌
 ├── master
-├── slave_osc32k
-├── slave_osc32k
-└── slave_osc32k
+└── slave
+	├── slave_osc32k
+	└── slave_osc32k
 ```
