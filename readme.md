@@ -1,3 +1,5 @@
+Note that the source code will be uploaded by the end of December 2021
+
 ## Packet-Coupled Oscillators (PkCOs) for Wireless Sensor Networks
 In academic work, please cite the following papers
 
