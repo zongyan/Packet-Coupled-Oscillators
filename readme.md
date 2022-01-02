@@ -1,4 +1,4 @@
-Note that the source code will be uploaded soon
+We will release our code upon acceptance.
 
 ## Packet-Coupled Oscillators (PkCOs) for Wireless Sensor Networks
 In academic work, please cite the following papers
