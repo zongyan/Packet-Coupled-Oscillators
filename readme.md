@@ -13,6 +13,4 @@ ZongYan/Packet-Coupled-Oscillators
 ├── readme.md		<-- You are here 📌
 ├── master
 └── slave
-	├── slave_osc32k
-	└── slave_osc32k
 ```
